@@ -1,4 +1,4 @@
-# QuantumMatlabHub 🚀
+# Quantum Matlab Hub 🚀
 
 <p align="center">
   <img src="Quantum.png" alt="QuantumMatlabHub Logo" width="300" height="300">
