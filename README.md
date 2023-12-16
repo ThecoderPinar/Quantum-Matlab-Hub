@@ -1,8 +1,7 @@
 # QuantumMatlabHub 🚀
 
 <p align="center">
-  [Quantum Logo](https://www.canva.com/design/DAF3KIqGXQo/0hcTkwCtU8nVCfVZ5Uhliw/edit?utm_content=DAF3KIqGXQo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
+  <img src="Quantum.png" alt="QuantumMatlabHub Logo" width="300" height="300">
 </p>
 
 Welcome to QuantumMatlabHub, a centralized hub for advanced MATLAB projects that explore the realms of computational mathematics, quantum computing, and data-driven insights.
@@ -23,4 +22,7 @@ QuantumMatlabHub is dedicated to pushing the boundaries of what's possible with 
 To experience the projects in QuantumMatlabHub, you'll need MATLAB installed on your machine. Clone this repository to your local environment:
 
 ```bash
-git clone https://github.com/your-username/QuantumMatlabHub.git
+git clone https://github.com/ThecoderPinar/QuantumMatlabHub.git
+
+cd QuantumMatlabHub
+
