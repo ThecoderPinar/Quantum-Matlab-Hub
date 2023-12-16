@@ -21,8 +21,27 @@ QuantumMatlabHub is dedicated to pushing the boundaries of what's possible with 
 
 To experience the projects in QuantumMatlabHub, you'll need MATLAB installed on your machine. Clone this repository to your local environment:
 
-```bash
-git clone https://github.com/ThecoderPinar/QuantumMatlabHub.git
+1. Clone this repository:
 
-cd QuantumMatlabHub
+    ```bash
+    git clone https://github.com/ThecoderPinar/QuantumMatlabHub.git
+    cd QuantumMatlabHub
+    ```
 
+2. Open MATLAB and run scripts from the `src` directory.
+
+## 🤝 How to Contribute
+
+We welcome contributions! If you'd like to add a new project or improve an existing one, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+
+## 📊 Projects Showcase
+
+...
+
+## 📬 Contact
+
+For inquiries, feedback, or collaboration opportunities, please reach out to us at [piinartp@gmail.com](mailto:piinartp@gmail.com).
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
